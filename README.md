@@ -15,4 +15,4 @@ There are 8 color options to choose from and they apply to the system wallpaper.
 
 <img width="500" heigth="1000" src="/assets/images/image3.png">
 
-License:https://creativecommons.org/licenses/by-nc/4.0/
+
