@@ -2,8 +2,7 @@
 
 :white_circle: The theme was created for the R36S with **_AmberELEC /Pan4ELEC_** systems. I designed them in inkscape to be very minimalist based on the console controls.
 
-There are 8 color options to choose from and they apply to the system wallpaper.
- :smiley:
+There are 8 color options to choose from and they apply to the system wallpaper. :smiley:
 
 <img width="600" heigth="1000"  src="/assets/images/image1.png">
 
