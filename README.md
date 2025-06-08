@@ -1,4 +1,4 @@
-# :arrow_right: AmberELEC-R36S-Minimalist-controls-theme (640x480)
+# :arrow_right: AmberELEC R36S Minimalist controls theme (640x480)
 
 :white_circle: My theme was created for the R36S with **_AmberELEC /Pan4ELEC_** systems. I designed them in inkscape to be very minimalist based on the console controls.
 
